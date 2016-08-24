@@ -229,18 +229,19 @@ compress_html:
     envs: development
 
 defaults:
-  _posts
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: "default"
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-  _pages
+
+  # _pages
   - scope:
       path: ""
       type: pages
