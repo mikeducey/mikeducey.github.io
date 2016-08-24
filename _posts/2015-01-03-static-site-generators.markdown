@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Test Post!"
 date:   2016-07-01 10:26:55 -0500
 categories: jekyll posts
