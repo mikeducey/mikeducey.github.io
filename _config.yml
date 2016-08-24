@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Michael Ducey's Website"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Michael Ducey"
+description              : "the personal/professional website for me!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "contextualist"
 facebook:
   username               :
   app_id                 :
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Web Developer, aspiring philosopher"
+  location         : "Omaha, Nebraska"
   email            :
   uri              :
   bitbucket        :
