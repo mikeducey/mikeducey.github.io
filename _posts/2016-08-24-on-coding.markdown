@@ -5,7 +5,7 @@ date:   2016-08-01 10:26:55 -0500
 categories: blog_post coding
 ---
 
-![Mark Twain]({{ site.url }} /assets/twain.jpg =384x512)
+![Mark Twain]({{ site.url }} twain.jpg =384x512)
 
 Reflecting on my coding experiences so far in this crash course at OCS elicits a wide range of thoughts. These past few months, from my acceptance into the program, to the beginning exercises outside the classroom to prepare me, to these past few weeks taking my first steps into programming and design, have been a roller coaster of ups and downs, of exciting moments and overwhelming frustration. Overall, I'm very pleased with what I've learned so far, but if I'm honest, I have to spend some time talking about the frustrations that I've been through, as well. In this post, I'll probably bounce back and forth a bit between both extremes, the goods and bads. I hope it'll be a coherent account of my time so far.
 
