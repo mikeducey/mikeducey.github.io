@@ -1,9 +1,8 @@
-
 ---
 layout: single
 title:  "href and include()"
 date:   2016-07-22 10:26:55 -0500
-categories: href include
+categories: blog_post
 ---
 
 The links defined in href are dependent on the path specified in the href value. So, for instance, adding a url, complete with the whole web information, will send the link to that specific website, as if the user will be coming from another website. That is, it will act as a way of coming to the site externally. In other words, it would restart a session that was started when the user was on the site page. So, even if the user clicks on a link that sends the user to another page on that website, given that it starts as a link, that session will restart. If the link specified is not a url (with http://, www or something like that, and just contains a name for a directory within that website, it will not restart a session.
