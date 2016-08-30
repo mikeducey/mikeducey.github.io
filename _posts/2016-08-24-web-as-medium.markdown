@@ -2,7 +2,7 @@
 layout: single
 title:  "The Web: The Ultimate Medium"
 date:   2016-07-04 10:26:55 -0500
-categories: blog_post the_web medium
+categories: blog_post
 ---
 
 If we conceptualize a medium as a means of communication, then the web is the most important medium ever created. Nothing before has ever had the ability to connect with or influence so many aspects of billions of people. The internet has become the main way that most people receive their external information and content, where most people get in touch with the world outside of their house. There is almost nothing that can’t be learned by accessing the web, almost nothing that can’t be seen, bought, or sold. A person can order food through the web, talk with someone across the world in an instant for no cost, etc. At this point, the question isn’t what the web can do, but what it can’t do for the right consumer.
