@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "GitHub Profile"
+    url: https://github.com/mikeducey/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Notable Nebraska"
+    url: https://notablenebraska.wordpress.com/
