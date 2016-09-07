@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "href and include()"
-date:   2016-07-22 10:26:55 -0500
+date:   2016-06-28 10:00:00 -0500
 categories: blog_post
 ---
 

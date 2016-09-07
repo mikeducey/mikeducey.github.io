@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "HTML, Head, Body, and Soul"
-date:   2016-07-25 10:26:55 -0500
-categories: html head body blog_post
+date:   2016-06-29 12:00:00 -0500
+categories: blog_post
 ---
 
 The &lt;html&gt; tag will instruct the browser that is being used that the document is an html document. This tag is found near the top of the page, usually under the &lt;DOCTYPE!&gt; tag that also specifies the language to the browser.  So, while it does not specify the language, the &lt;html&gt; tag tells the browser that it is of a certain type of document.  The language that the document will be read in is specified above in &lt;DOCTYPE!&gt;.  The &lt;html&gt; tag will also omit php elements, which, in a php file type, can be placed at any point in the document.  The browser, when read through a server, can interpret php info and not have the need for it to be placed within the &lt;html&lt; tag.  But, any information that is to be displayed, in both the body and in the head, will need to be placed within the &lt;html&lt; tag.

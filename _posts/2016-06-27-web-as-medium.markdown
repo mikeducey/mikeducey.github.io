@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Web: The Ultimate Medium"
-date:   2016-07-04 10:26:55 -0500
+date:   2016-06-27 10:00:00 -0500
 categories: blog_post
 ---
 
